@@ -125,4 +125,4 @@ if st.button("Generate Music"):
             st.success(f"{mood.capitalize()} music generated! 🎉")
 
 st.markdown("---")
-st.write("Built by Vivek Gupta | Powered by Streamlit")
+st.write("Built by Vivek Gupta & Harsh Gupta | Powered by Streamlit")
