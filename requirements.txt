@@ -1,0 +1,6 @@
+pandas
+mido
+pydub
+streamlit
+gtts
+pyfluidsynth
