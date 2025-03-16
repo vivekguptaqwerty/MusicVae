@@ -7,7 +7,7 @@ import subprocess
 import os
 
 # Load preprocessed data
-df = pd.read_pickle('C:/Users/vivek gupta/OneDrive/Desktop/musicVae/music_processed.pkl')
+df = pd.read_pickle('music_processed.pkl')
 
 # Function to generate music with structure
 def generate_music(mood, midi_file='C:/Users/vivek gupta/OneDrive/Desktop/musicVae/temp.mid', 
