@@ -4,3 +4,5 @@ pydub
 streamlit
 gtts
 pyfluidsynth
+libfluidsynth-dev
+fluidsynth
